@@ -1,0 +1,37 @@
+MOUSE_PREDICTION_MODEL = {
+    'animal': [
+        'house',
+        'genom',
+        'kitchen',
+        'eat',
+        'climb',
+        'live',
+        'cheese',
+        'mousetrap',
+        'annoy',
+        'running',
+        'anim',
+        'ears'
+    ],
+    'computer-mouse': [
+        'modern',
+        'development',
+        'environment',
+        'use',
+        'laser',
+        'instead',
+        'ball',
+        'input',
+        'device',
+        'ergonomics',
+        'usb',
+        'game',
+        'object',
+        'surface',
+        'optic',
+        'speed',
+        'tablet',
+        'comput',
+        'using',
+    ]
+}
